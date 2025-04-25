@@ -1,0 +1,20 @@
+a {
+    background-color: pink;
+    color: beige;
+    text-decoration: none;
+    padding: 20px;
+}
+
+a.hover {
+    color: bisque;
+    background-color: rgb(69, 135, 194);
+}
+
+a .active {
+    font-style: italic;
+    font-size: 20px;
+}
+
+#link-maior {
+    font-size: larger;
+}

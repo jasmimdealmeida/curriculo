@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #034879
+}
+
+.titulos {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    background-color: #034879;
+    font-weight: bold;
+    font-size: 14px;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15%;
+
+}
+
+a:hover {
+    font-size: 16px;
+    
+}
+
+.section-chapter {
+    margin: 15px;
+    padding: 10px;
+    background-color: #E9ECEF;
+}
+
+.section-index {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
